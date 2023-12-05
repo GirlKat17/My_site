@@ -45,27 +45,11 @@ x_coming_sssoon_page/
 
 ```
 
-### Version logs
-
-V1.3.2, 10 Feb 2017 [current version]
-- switched to MIT license .
-
-
-### License
-
-- Copyright 2017 Creative Tim (http://www.creative-tim.com)
-- Licensed under MIT (https://github.com/creativetimofficial/coming-sssoon-page/blob/master/LICENSE.md)
-
-
 ## Useful Links
 
 More products from Creative Tim: <http://www.creative-tim.com/products>
 
 Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
-
-Freebies: <http://www.creative-tim.com/products>
-
-Affiliate Program (earn money): <http://www.creative-tim.com/affiliates/new>
 
 Social Media:
 
